@@ -15,7 +15,7 @@ echo "deb [arch=amd64 signed-by=/usr/share/keyrings/vscode.gpg] https://packages
 
 sudo apt update
 sudo apt install code 
-
+```
 
 
 ---
@@ -32,3 +32,4 @@ sudo apt install npm
 # Verify installation
 node -v
 npm -v
+```
